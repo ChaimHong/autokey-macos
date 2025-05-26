@@ -1,14 +1,9 @@
 {
-    "type": "script",
-    "description": "cmd-a",
-    "store": {},
-    "modes": [
-        3
-    ],
-    "usageCount": 12,
-    "prompt": false,
-    "omitTrigger": false,
-    "showInTrayMenu": false,
+    "type": "folder",
+    "title": "macOS-default",
+    "modes": [],
+    "usageCount": 92,
+    "showInTrayMenu": true,
     "abbreviation": {
         "abbreviations": [],
         "backspace": true,
@@ -18,10 +13,8 @@
         "wordChars": "[\\w]"
     },
     "hotkey": {
-        "modifiers": [
-            "<super>"
-        ],
-        "hotKey": "a"
+        "modifiers": [],
+        "hotKey": null
     },
     "filter": {
         "regex": null,
